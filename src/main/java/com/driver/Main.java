@@ -20,9 +20,9 @@ public class Main {
     public static void main (String args[])
     {
         Product p=new Product();
-        p.product(10,5);
+        p.product(8,4);
         p.product(10,5,2);
-        p.product(10.5,5.5);
+        p.product(10.6,5.5);
     }
 
 }
